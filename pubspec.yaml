@@ -24,4 +24,5 @@ flutter:
         pluginClass: UniLinksPlugin
       ios:
         pluginClass: UniLinksPlugin
-
+      macos:
+        pluginClass: UniLinksPlugin
